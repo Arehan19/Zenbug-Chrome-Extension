@@ -25,6 +25,7 @@ It’s designed for developers, testers, and product teams to streamline the fee
 
    * Go to `chrome://extensions/`
    * Enable **Developer Mode** (top right).
+     
 3. **Load the Extension**
 
    * Click **Load unpacked**.
